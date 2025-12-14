@@ -1,0 +1,34 @@
+{
+  "name": "web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "ultracite fix",
+    "clean": "rm -rf .output .nitro .tanstack build dist"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.4",
+    "@tanstack/react-router": "^1.141.2",
+    "@tanstack/react-start": "^1.141.3",
+    "motion": "^12.23.26",
+    "nitro": "latest",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@types/node": "^25.0.2",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.1.2",
+    "tailwind-variants": "^3.2.2",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.7.2",
+    "vite": "^7.2.7",
+    "vite-tsconfig-paths": "^5.1.4",
+    "web-vitals": "^5.1.0"
+  }
+}
