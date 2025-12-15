@@ -1,5 +1,5 @@
 {
-  "name": "invoic",
+  "name": "okay",
   "private": true,
   "scripts": {
     "dev": "turbo run dev",
