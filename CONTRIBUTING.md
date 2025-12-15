@@ -10,7 +10,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository
    ```sh
-     git clone https://github.com/moonospace/invoic.git
+     git clone https://github.com/moonospace/okay.git
    ```
 2. Install the dependencies by running the following command.
    ```sh

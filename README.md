@@ -1,4 +1,4 @@
-# Invoic
+# Okay
 
 _"All in one resources collections for indie hacker, designer and developer to ship products"_
 
