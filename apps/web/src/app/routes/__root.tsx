@@ -13,7 +13,7 @@ export const Route = createRootRoute({
         content: "width=device-width, initial-scale=1",
       },
       {
-        title: "Create, Manage & Share Beautiful Invoices | Invoic",
+        title: "Business Transactions Made Easy | Okay",
       },
     ],
     links: [

@@ -5,9 +5,9 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: generatedMetadata({
-      title: "Create, Manage & Share Beautiful Invoices | Invoic",
+      title: "Business Transactions Made Easy | Okay",
       description:
-        "Free for business and high scalable invoices, bills, transactions documents tools for pdf, and API",
+        "Free & unlimited invoices, bills, purchase order and receipts transactions tools for business",
     }),
   }),
   component: RouteComponent,
